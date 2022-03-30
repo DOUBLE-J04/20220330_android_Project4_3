@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">android_Project4_3</string>
+    <string name="button1">더하기</string>
+    <string name="button2">빼기</string>
+    <string name="button3">곱하기</string>
+    <string name="button4">나누기</string>
+    <string name="button5">나머지 값</string>
+    <string name="result">계산 결과: </string>
+</resources>
